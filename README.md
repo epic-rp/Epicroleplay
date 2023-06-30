@@ -5,7 +5,7 @@ Epic Roleplay - Kerala’s first complete voice chat enabled sa-mp server.
 
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/http://dsc.gg/epic-rp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/epicroleplaykerala) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/http://dsc.gg/epic-rp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/epic.roleplay) 
 
 # 📊 GitHub Stats:
 
